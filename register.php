@@ -20,7 +20,11 @@
 
     <!-- Registration Form -->
     <section class="register" id="register">
-
+        <form method="POST" action="">
+            <div class="max-width">
+                
+            </div>
+        </form>
     </section>
 </body>
 </html>
