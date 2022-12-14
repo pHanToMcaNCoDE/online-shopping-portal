@@ -1,0 +1,18 @@
+
+:root{
+
+    /* Fonts */
+    -av: 'Avenier';
+
+    /* Colors */
+    --p: #ab2199;
+    --w: white;
+}
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
