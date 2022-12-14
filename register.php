@@ -21,8 +21,17 @@
     <!-- Registration Form -->
     <section class="register" id="register">
         <form method="POST" action="">
+            <h3>Sign up</h3>
             <div class="max-width">
-                
+                <div>
+                    <label for="Email">E-mail</label>
+                    <input type="email" name="email">
+                </div>
+                <div> 
+                    <label for="Password">Password</label>
+                    <input type="password" name="pwd">
+                </div> 
+                </div> 
             </div>
         </form>
     </section>
