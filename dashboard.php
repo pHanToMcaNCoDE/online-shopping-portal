@@ -22,19 +22,19 @@
         <div class="links">
             <div>
                 <a href="#">Dashboard</a>
-                </hr>
+                <hr>
             </div>
             <div>
                 <a href="#">Products</a>
-                </hr>
+                <hr>
             </div>
             <div>
                 <a href="#">Orders</a>
-                </hr>
+                <hr>
             </div>
             <div>
                 <a href="#">Customers</a>
-                </hr>
+                <hr>
             </div>
         </div>
         <div class="acc">
