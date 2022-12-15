@@ -1,0 +1,58 @@
+
+:root{
+
+    /* Fonts */
+    --av: 'Avenier';
+
+    /* Colors */
+    --p: #ab2199;
+    --w: white;
+    --b: rgb(50, 50, 50);
+    --ash: grey;
+}
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: var(--w);
+}
+.max-width{
+    max-width: 1200px;
+    margin: 0 30px;
+    /* margin: auto; */
+}
+hr{
+    background-color: var(--w);
+    width: 30%;
+}
+/* Aside Bar Styling */
+aside{
+    display: block;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: var(--b);
+    width: 20vw;
+    height: 100vh;
+    padding: 2%;
+}
+aside .logo{
+    font-family: var(--av), sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--w);
+}
+aside .links{
+    display: block;
+    font-family: var(--av), sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: var(--w);
+}
