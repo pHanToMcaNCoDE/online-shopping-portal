@@ -13,33 +13,48 @@
     <meta name="viewport" description="device-width=1.0">
     <title>Online Shopping Portal || Register</title>
     <link rel="stylesheet" href="styles/dash.css">
+    <script src="https://kit.fontawesome.com/032421aa45.js" crossorigin="anonymous"></script>
 </head>
 <body>
-    <aside class="nav">
-        <div class="logo">
-            <a href="#">Rush</a>
-        </div>
+    <aside>
         <div class="links">
             <div>
+                <i class="fa-solid fa-list"></i>
                 <a href="#">Dashboard</a>
             </div>
             <hr>
             <div>
+                <i class="fa-solid fa-gift"></i>
                 <a href="#">Products</a>
             </div>
             <hr>
             <div>
+                <i class="fa-solid fa-truck-ramp-box"></i>
                 <a href="#">Orders</a>
             </div>
             <hr>
             <div>
+                <i class="fa-solid fa-users"></i>
                 <a href="#">Customers</a>
             </div>
             <hr>
         </div>
-        <div class="acc">
-            <a href="#">Vick</a>
-        </div>
 </aside>
+
+<nav class="nav">
+        <div class="max-width">
+        <div class="logo">
+            <a href="#">Rush</a>
+        </div>
+            <div class="acc">
+                <a href="#">Vick</a>
+            </div>
+        </div>
+    </nav>
+
+<!-- Dashboard section -->
+<section class="dash">
+
+</section>
 </body>
 </html>

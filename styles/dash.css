@@ -30,6 +30,38 @@ body{
     /* margin: auto; */
 }
 
+/* Navigation Styling */
+nav{
+    position: absolute;
+    top: 0;
+    width: 99.8%;
+    height: 70px;
+    border-bottom: 1px solid var(--ash);
+    background-color: var(--b);
+}
+nav .max-width{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+nav .max-width .logo a{
+    font-family: var(--av), sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: absolute;
+    left: 6%;
+    top: 25%;
+    color: var(--w);
+}
+nav .max-width .acc a{
+    /* z-index: -999; */
+    position: absolute;
+    right: 10%;
+    top: 25%;
+    color: var(--w);
+}
+
+
 /* Aside Bar Styling */
 aside{
     display: block;
@@ -40,20 +72,21 @@ aside{
     height: 100vh;
     padding: 2%;
 }
-aside .logo{
-    font-family: var(--av), sans-serif;
-    font-size: 20px;
-    font-weight: 400;
-    color: var(--w);
+aside .links div{
+    display: flex;
 }
-/* aside .links{
-} */
+aside .links div i{
+    font-size: 16px;
+    color: var(--w);
+    margin-top: 47%;
+    /* padding: 5% 5% 5% 0; */
+}
 aside .links div a{
     display: block;
     justify-content: space-evenly;
     align-items: center;
     text-align: justify;
-    padding: 5% 5% 5% 15%;
+    padding: 5% 5% 5% 20%;
     font-family: var(--av), sans-serif;
     font-size: 18px;
     font-weight: 400;
