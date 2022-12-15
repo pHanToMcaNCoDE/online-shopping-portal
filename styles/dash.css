@@ -8,7 +8,7 @@
     --p: #ab2199;
     --w: white;
     --b: rgb(50, 50, 50);
-    --ash: grey;
+    --ash: rgb(245, 244, 244);
 }
 
 
@@ -22,7 +22,7 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    background-color: var(--w);
+    background-color: var(--ash);
 }
 .max-width{
     max-width: 1200px;
@@ -46,25 +46,26 @@ aside .logo{
     font-weight: 400;
     color: var(--w);
 }
-aside .links{
+/* aside .links{
+} */
+aside .links div a{
     display: block;
     justify-content: space-evenly;
     align-items: center;
-    padding: 30% 5%;
-}
-aside .links div a{
+    text-align: justify;
+    padding: 5% 5% 5% 15%;
     font-family: var(--av), sans-serif;
     font-size: 18px;
     font-weight: 400;
     color: var(--w);
     font-weight: 400;
-    margin-top: 10%;
-    /* padding: 20% 10%; */
+    margin-top: 40%;
 }
-aside .links div a hr{
+hr{
     position: absolute;
     left: 0;
     background-color: var(--w);
     width: 19%;
-    /* margin-top: 30%; */
+    margin-top: 3%;
 }
+
