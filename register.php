@@ -12,7 +12,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rush Shopping Portal || Registration</title>
-    <link rel="stylesheet" href="styles/style.css"
+    <link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
     <nav>
@@ -32,6 +32,8 @@
                     <label for="Password">Password</label>
                     <input type="password" name="pwd">
                 </div> 
+                <div>
+                    <input type="submit" name="submit">
                 </div> 
             </div>
         </form>
