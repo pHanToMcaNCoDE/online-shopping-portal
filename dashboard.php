@@ -54,7 +54,76 @@
 
 <!-- Dashboard section -->
 <section class="dash">
-
+    <div class="max-width">
+        <div class="row">
+            <div class="container">
+                <div class="text">
+                    <h3>0</h3>
+                    <p>lorem ipsum</p>
+                </div>
+                <div class="icon">
+                </div>
+            </div>
+            <div class="container">
+                <div class="text">
+                    <h3>0</h3>
+                    <p>lorem ipsum</p>
+                </div>
+                <div class="icon">
+                </div>
+            </div>
+            <div class="container">
+                <div class="text">
+                    <h3>0</h3>
+                    <p>lorem ipsum</p>
+                </div>
+                <div class="icon">
+                </div>
+            </div>
+            <div class="container">
+                <div class="text">
+                    <h3>0</h3>
+                    <p>lorem ipsum</p>
+                </div>
+                <div class="icon">
+                </div>
+            </div>
+            <div class="container">
+                <div class="text">
+                    <h3>0</h3>
+                    <p>lorem ipsum</p>
+                </div>
+                <div class="icon">
+                </div>
+            </div>
+        </div>
+        <div class="row">
+        <div class="container">
+                <div class="text">
+                    <h3>0</h3>
+                    <p>lorem ipsum</p>
+                </div>
+                <div class="icon">
+                </div>
+            </div>
+            <div class="container">
+                <div class="text">
+                    <h3>0</h3>
+                    <p>lorem ipsum</p>
+                </div>
+                <div class="icon">
+                </div>
+            </div>
+            <div class="container">
+                <div class="text">
+                    <h3>0</h3>
+                    <p>lorem ipsum</p>
+                </div>
+                <div class="icon">
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
 </body>
 </html>
