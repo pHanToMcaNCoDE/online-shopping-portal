@@ -37,7 +37,7 @@ nav{
     width: 99.8%;
     height: 70px;
     border-bottom: 1px solid var(--ash);
-    background-color: var(--b);
+    background-color: var(--w);
 }
 nav .max-width{
     display: flex;
@@ -51,14 +51,14 @@ nav .max-width .logo a{
     position: absolute;
     left: 6%;
     top: 25%;
-    color: var(--w);
+    color: var(--b);
 }
 nav .max-width .acc a{
     /* z-index: -999; */
     position: absolute;
     right: 10%;
     top: 25%;
-    color: var(--w);
+    color: var(--b);
 }
 
 
@@ -67,7 +67,7 @@ aside{
     display: block;
     justify-content: space-evenly;
     align-items: center;
-    background-color: var(--b);
+    background-color: var(--w);
     width: 15vw;
     height: 100vh;
     padding: 2%;
@@ -77,7 +77,7 @@ aside .links div{
 }
 aside .links div i{
     font-size: 16px;
-    color: var(--w);
+    color: var(--b);
     margin-top: 47%;
     /* padding: 5% 5% 5% 0; */
 }
@@ -90,14 +90,14 @@ aside .links div a{
     font-family: var(--av), sans-serif;
     font-size: 18px;
     font-weight: 400;
-    color: var(--w);
+    color: var(--b);
     font-weight: 400;
     margin-top: 40%;
 }
 hr{
     position: absolute;
     left: 0;
-    background-color: var(--w);
+    background-color: var(--b);
     width: 19%;
     margin-top: 3%;
 }
