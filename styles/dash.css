@@ -105,6 +105,6 @@ hr{
 .dash{
     position: absolute;
     left: 60%;
-    top: 50%;
+    top: 10%;
     transform: translate(-50%);
 }
