@@ -12,7 +12,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" description="device-width=1.0">
     <title>Online Shopping Portal || Register</title>
-    <link rel="stylesheet" href="styles/dash.css">
+    <link rel="stylesheet" type="text/css" href="styles/dash.css">
     <script src="https://kit.fontawesome.com/032421aa45.js" crossorigin="anonymous"></script>
 </head>
 <body>
