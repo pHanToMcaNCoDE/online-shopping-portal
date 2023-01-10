@@ -5,6 +5,7 @@
 
 
     --p: #ab2199;
+    --b2: #000;
     --w: white;
     /* --w2: #f0f1f1 */
     --b: rgb(50, 50, 50);
@@ -102,15 +103,34 @@ hr{
 .dash{
     position: absolute;
     left: 60%;
-    top: 20%;
+    top: 60%;
     transform: translate(-50%, -50%);
     background-color: var(--w);
-    /* height: 50vh;
-    width: 20vw; */
+    height: 80vh;
+    width: 70vw;
 }
 .dash .max-width .row{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
+    margin: 5% 2%;
+}
+.dash .max-width .row .container{
+    display: block;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 30px;
     border: 1px solid var(--b);
 }
+.dash .max-width .row .container .text{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.dash .max-width .row .container .btn a{
+    border: 1px solid var(--b);
+    padding: 10px 30px;
+    font-family: var(--av), sans-serif;
+    
+}
+

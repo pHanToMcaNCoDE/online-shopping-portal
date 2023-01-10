@@ -59,68 +59,54 @@
             <div class="container">
                 <div class="text">
                     <h3>0</h3>
-                    <p>lorem ipsum</p>
+                    <p>Loyal Customers</p>
+                    <div class="icon">
+                        <i class="fa-solid fa-users"></i>
+                    </div>
                 </div>
-                <div class="icon">
-                </div>
+                <div class="btn"><a href="#">View more</a></div>
             </div>
             <div class="container">
                 <div class="text">
                     <h3>0</h3>
-                    <p>lorem ipsum</p>
+                    <p>Orders made</p>
+                    <div class="icon">
+                        <i class="fa-solid fa-truck-ramp-box"></i>
+                    </div>
                 </div>
-                <div class="icon">
-                </div>
+                <div class="btn"><a href="#">View more</a></div>
             </div>
             <div class="container">
                 <div class="text">
                     <h3>0</h3>
-                    <p>lorem ipsum</p>
+                    <p>Registered Products</p>
+                    <div class="icon">
+                        <i class="fa-solid fa-gift"></i>
+                    </div>
                 </div>
-                <div class="icon">
-                </div>
+                <div class="btn"><a href="#">View more</a></div>
             </div>
             <div class="container">
                 <div class="text">
                     <h3>0</h3>
-                    <p>lorem ipsum</p>
+                    <p>Active Employees</p>
+                    <div class="icon">
+                        <i class="fa-solid fa-helmet-safety"></i>
+                    </div>
                 </div>
-                <div class="icon">
-                </div>
-            </div>
-            <div class="container">
-                <div class="text">
-                    <h3>0</h3>
-                    <p>lorem ipsum</p>
-                </div>
-                <div class="icon">
-                </div>
+                <div class="btn"><a href="#">View more</a></div>
             </div>
         </div>
         <div class="row">
-        <div class="container">
-                <div class="text">
-                    <h3>0</h3>
-                    <p>lorem ipsum</p>
-                </div>
-                <div class="icon">
-                </div>
-            </div>
             <div class="container">
                 <div class="text">
                     <h3>0</h3>
-                    <p>lorem ipsum</p>
+                    <p>Collaborations</p>
+                    <div class="icon">
+                        <i class="fa-solid fa-handshake"></i>
+                    </div>
                 </div>
-                <div class="icon">
-                </div>
-            </div>
-            <div class="container">
-                <div class="text">
-                    <h3>0</h3>
-                    <p>lorem ipsum</p>
-                </div>
-                <div class="icon">
-                </div>
+                <div class="btn"><a href="#">View more</a></div>
             </div>
         </div>
     </div>
