@@ -1,4 +1,4 @@
-/* :root{
+:root{
 
 
     --av: 'Avenier';
@@ -6,6 +6,7 @@
 
     --p: #ab2199;
     --w: white;
+    /* --w2: #f0f1f1 */
     --b: rgb(50, 50, 50);
     --ash: rgb(245, 244, 244);
 }
@@ -94,6 +95,7 @@ hr{
     left: 0;
     background-color: var(--b);
     width: 19%;
+    height: 1px;
     margin-top: 3%;
 }
 
@@ -102,10 +104,13 @@ hr{
     left: 60%;
     top: 20%;
     transform: translate(-50%, -50%);
+    background-color: var(--w);
+    /* height: 50vh;
+    width: 20vw; */
 }
 .dash .max-width .row{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     border: 1px solid var(--b);
-} */
+}
